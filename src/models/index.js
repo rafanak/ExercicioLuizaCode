@@ -1,4 +1,4 @@
-const sequelize = require('../config/sequelize'); //dois pontos sobre dois níveis de diretório
+const sequelize = require('../config/sequelize'); //dois pontos sobe dois níveis de diretório
 const Sequelize = require('sequelize');
 
 const Produto = require('./produto');
